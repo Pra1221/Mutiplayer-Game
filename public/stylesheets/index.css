@@ -33,7 +33,8 @@ body {
   /* background: #8e59c0ef; */
   /* background-image: linear-gradient(#302d5f,#7a77a3); */
   /* background-image: radial-gradient(#302d5f,#09071a); */
-  background-image: url("/images/back.jpeg");
+  /* background-image: url("/images/back.jpeg"); */
+  background-color:#14112a;
   background-size: 100%;
   font-size: 16;
   line-height: 1.3;
@@ -102,7 +103,7 @@ body {
 .textbox {
   overflow: auto;
   overflow-wrap: break-word;
-  background-color: #23799B;
+  background-color: #a2c5d2;
   border: 1px solid black;
   margin: 8px 0;
   padding: 10px;
